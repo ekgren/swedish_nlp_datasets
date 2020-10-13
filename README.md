@@ -9,8 +9,8 @@ Translated from English to Swedish with Google Translate
 Paper: `BERT is Not an Interlingua and the Bias of Tokenization` [[1]](#1)
 
 * STS-b for Swedish  
-https://github.com/timpal0l/sts-benchmark-swedish
-Translated from English to Swedish with Google Translate
+https://github.com/timpal0l/sts-benchmark-swedish  
+Translated from English to Swedish with Google Translate  
 Paper: `Why Not Simply Translate? A First Swedish Evaluation Benchmark for Semantic Similarity` [[2]](#2) 
 
 ## General Swedish corpora resources
