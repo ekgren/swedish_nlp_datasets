@@ -15,7 +15,7 @@ Paper: `Why Not Simply Translate? A First Swedish Evaluation Benchmark for Seman
 
 ## Training datasets
 
-* Swedish wikipedia
+* Swedish wikipedia  
 First install tools with ´install-tools.sh´ then run ´./get-data-wiki.sh sv´ and it will download and preprocess the swedish wikipedia data
 
 ## General Swedish corpora resources
