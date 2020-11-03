@@ -13,6 +13,11 @@ https://github.com/timpal0l/sts-benchmark-swedish
 Translated from English to Swedish with Google Translate  
 Paper: `Why Not Simply Translate? A First Swedish Evaluation Benchmark for Semantic Similarity` [[2]](#2) 
 
+## Training datasets
+
+* Swedish wikipedia
+First install tools with ´install-tools.sh´ then run ´./get-data-wiki.sh sv´ and it will download and preprocess the swedish wikipedia data
+
 ## General Swedish corpora resources
 
 * https://www.ling.su.se/english/nlp/corpora-and-resources
