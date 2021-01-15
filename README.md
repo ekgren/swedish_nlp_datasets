@@ -13,6 +13,9 @@ https://github.com/timpal0l/sts-benchmark-swedish
 Translated from English to Swedish with Google Translate  
 Paper: `Why Not Simply Translate? A First Swedish Evaluation Benchmark for Semantic Similarity` [[2]](#2) 
 
+* Swedish reviews  
+https://github.com/huggingface/datasets/tree/master/datasets/swedish_reviews
+
 ## Training datasets
 
 * Swedish wikipedia  
