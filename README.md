@@ -1,7 +1,20 @@
 # Swedish NLP dataset resources
-Here we will collect NLP dataset resources for Swedish
+Here we collect resources for Swedish Text Data.
+We are looking for collaborators to add sources and scraped data.
+
+## Raw text datasets
+
+* Swedish wikipedia
+Wikipedia is a great resource for high quality text.  
+First install tools with ´install-tools.sh´ then run ´./get-data-wiki.sh sv´ and it will download and preprocess the swedish wikipedia data
+
+* Litteraturbanken
+
+* Oscar
 
 ## Evaluation datasets
+
+* SUPERLIM
 
 * XNLI for Swedish  
 https://github.com/salesforce/xnli_extension  
@@ -16,10 +29,9 @@ Paper: `Why Not Simply Translate? A First Swedish Evaluation Benchmark for Seman
 * Swedish reviews  
 https://github.com/huggingface/datasets/tree/master/datasets/swedish_reviews
 
-## Training datasets
+## Swedish datasets on huggingface datasets
 
-* Swedish wikipedia  
-First install tools with ´install-tools.sh´ then run ´./get-data-wiki.sh sv´ and it will download and preprocess the swedish wikipedia data
+* There are a lot of Swedish datasets on huggingface datasets
 
 ## General Swedish corpora resources
 
